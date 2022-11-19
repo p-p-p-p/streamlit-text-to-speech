@@ -2,4 +2,4 @@
 ## webapp link hosted on heroku <br>
 https://text-to-speech-streamlit.herokuapp.com/
 
-![Demo](https://github.com/mx-pro/streamlit-text-to-speech/blob/main/demo.png)
+![Demo](https://github.com/p-p-p-p/streamlit-text-to-speech/blob/main/demo.png)
